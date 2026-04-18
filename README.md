@@ -55,7 +55,7 @@ echo "Status: Online. Initializing $user environment..."
 <p align="center">
    <img src="https://cdn.simpleicons.org/cloudflare" height="47"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  <img src="https://cdn.simpleicons.org/gnu/EAE7D6" height="47"/>
+  <img src="https://cdn.simpleicons.org/gnu" height="47"/>
   <img src="https://cdn.simpleicons.org/linux/EAE7D6" height="47"/>
   <img src="https://cdn.simpleicons.org/REDHAT" height="47"/>
 </p>
