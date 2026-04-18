@@ -1,73 +1,128 @@
-<h1 align="center">🐧¡Hello There!🐧</h1>
-<h4 align="center">Amante del Cine el Software y la Comida</h4>
+<div align="center">
 
-<h1 align="center" target="_blank"><img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px>Sobre Mi<img src = "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png" width = 50px></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rocca.sh;Backend+Developer+%7C+Linux+Enthusiast;Building+systems+from+scratch;Spring+Boot+%7C+GNU%2FLinux+%7C+Low+Level" alt="Typing SVG" />
 
-<picture> <img align="right" src="https://thurotdotcom.files.wordpress.com/2012/09/11-what-was.jpg" width = 300px height = 325px></picture>
+<br/>
 
-```js
-let SobreMi = {
-  "nombre": "Roberto Flores",
-  "estudios": "Ingeniería en Computación",
-  "Aprendiendo": {
-    "Lenguajes": ["ninguno"],
-    "Tecnologias": ["Git", "Bash"],
-    "Sistemas Operativos Usados": ["Fedora", "Mint", "Arch Linux"],
-    "Entornos De Escritorio y Twm": ["Hyperland", "I3wm", "Xfce4"]
-  },
-  "Cine": {
-    "PeliculasFacoritas": ["La La Land", "Star Wars Episodio III The Revenge of the Sith", "Phantom Thread", "Güeros"],
-    "DirectoresFavoritos": ["Damian Chazelle", "Alejandro González Iñárritu", "Denis Villeneuve"],
-    "ActoresFavoritos": ["Emma Stone", "Ryan Gosling", "Jake Gyllenhaal", "Anne Hathaway", "Leonardo DiCaprio"]
-  }
-}
+<p>
+  <a href="https://github.com/Rocca.sh">
+    <img src="https://img.shields.io/github/followers/Rocca.sh?label=Followers&style=for-the-badge&color=39C5BB&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rocca.sh&style=for-the-badge&color=39C5BB&label=Profile+Views" />
+</p>
+
+</div>
+
+---
+
+## About Me
+
+```bash
+#!/bin/bash
+
+# System Configuration
+user="Rocca.sh"
+role=("Backend Developer" "Linux Enthusiast" "Computer Engineer Student")
+origin="Mexico"
+
+# Current Modules
+stack=("C#" "Java" "C" "Bash")
+executing=(
+  "Spring Boot Blog Platform"
+  "DTRL - GNU/Linux structured community"
+  "Experimental Game Cards"
+)
+
+echo "Status: Online. Initializing $user environment..."
 ```
-<picture> <img align="center" src="https://github.com/RobertoFLores29/Wallpapers/blob/main/LaLaLandBaileLovelyNigth.jpg"></picture>
 
+## Tech Stack
 
-<picture> <img align="left" src="https://i.ytimg.com/vi/1eX3T4WluI4/hqdefault.jpg" width = 300px height = 325px></picture>
-
-<h3 align="center">Languajes:</h3>
+### Lenguajes
 <p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/C%23-39C5BB?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-39C5BB?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-39C5BB?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-39C5BB?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-<h3 align="center" target="_blank">Herramientas Preferidas:</h3>
-
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-</p>
-<h3 align="center" target="_blank">Redes Sociales:</h3>
+### Backend
 <p align="center">
-  <a href="https://letterboxd.com/roccagoolmozie/" target="_blank">
-    <img src="https://a.ltrbxd.com/logos/letterboxd-mac-icon.png" height="50" width="50" text-decoration="none">
-  </a>
-  <a href="https://www.instagram.com/robert0flores_/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="50" width="50" text-decoration="none">
-  </a>
-  <a href="https://www.facebook.com/robertoflores9295/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" height="50" width="50" text-decoration="none">
-  </a>
+  <img src="https://img.shields.io/badge/Spring_Boot-39C5BB?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-39C5BB?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-39C5BB?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+### Servicios & Infra
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-39C5BB?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU_Linux-39C5BB?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-39C5BB?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-39C5BB?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-39C5BB?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-39C5BB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-39C5BB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-39C5BB?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Rocca.sh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project1&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+</a>
+
+<a href="https://github.com/Rocca.sh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project2&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+## Focus
+
+<div align="center">
+
+```
+Backend development with Spring Boot
+Linux internals and system architecture
+Low level programming and ELF binaries
+Compilers and language design
+Building systems from scratch
+```
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca.sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca.sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocca.sh&hide_border=true&background=0D1117&stroke=39C5BB&ring=39C5BB&fire=ff007f&currStreakLabel=39C5BB" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=80&section=footer" />
+
+Built from the terminal — Rocca.sh
+
+</div>
