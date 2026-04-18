@@ -12,9 +12,12 @@
 
 </div>
 
----
 
 ## About Me
+
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
 
 ```bash
 #!/bin/bash
@@ -35,6 +38,14 @@ executing=(
 echo "Status: Online. Initializing $user environment..."
 ```
 
+  </td>
+  <td width="30%" valign="top">
+    <br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Beatles_Abbey_Road_album_cover.jpg" width="100%" style="border-radius: 8px; border: 1px solid #39C5BB;" />
+  </td>
+ </tr>
+</table>
+
 ## Tech Stack
 
 ### Lenguajes
@@ -51,7 +62,7 @@ echo "Status: Online. Initializing $user environment..."
    <img src="https://cdn.simpleicons.org/postgresql" height="47"/>
 </p>
 
-### Servicices & Cloud
+### Services & Cloud
 <p align="center">
    <img src="https://cdn.simpleicons.org/cloudflare" height="47"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
@@ -63,7 +74,6 @@ echo "Status: Online. Initializing $user environment..."
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
----
 
 ## Featured Projects
 
@@ -79,23 +89,6 @@ echo "Status: Online. Initializing $user environment..."
 
 </div>
 
----
-
-## Focus
-
-<div align="center">
-
-```
-Backend development with Spring Boot
-Linux internals and system architecture
-Low level programming and ELF binaries
-Compilers and language design
-Building systems from scratch
-```
-
-</div>
-
----
 
 ## GitHub Stats
 
@@ -111,7 +104,6 @@ Building systems from scratch
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocca-sh&hide_border=true&background=0D1117&stroke=39C5BB&ring=39C5BB&fire=ff007f&currStreakLabel=39C5BB" />
 </div>
 
----
 
 <div align="center">
 
