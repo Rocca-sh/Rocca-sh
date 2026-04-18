@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rocca.sh;Backend+Developer+%7C+Linux+Enthusiast;Building+systems+from+scratch;Spring+Boot+%7C+GNU%2FLinux+%7C+Low+Level" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rocca-sh;Backend+Developer+%7C+Linux+Enthusiast;Building+systems+from+scratch;Spring+Boot+%7C+GNU%2FLinux+%7C+Low+Level" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <a href="https://github.com/Rocca.sh">
+  <a href="https://github.com/Rocca-sh">
     <img src="https://img.shields.io/github/followers/Rocca.sh?label=Followers&style=for-the-badge&color=39C5BB&labelColor=0D1117" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Rocca.sh&style=for-the-badge&color=39C5BB&label=Profile+Views" />
@@ -75,11 +75,11 @@ echo "Status: Online. Initializing $user environment..."
 
 <div align="center">
 
-<a href="https://github.com/Rocca.sh">
+<a href="https://github.com/Rocca-sh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project1&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
 </a>
 
-<a href="https://github.com/Rocca.sh">
+<a href="https://github.com/Rocca-sh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project2&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
 </a>
 
@@ -107,14 +107,14 @@ Building systems from scratch
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca.sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca-sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca.sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca-sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocca.sh&hide_border=true&background=0D1117&stroke=39C5BB&ring=39C5BB&fire=ff007f&currStreakLabel=39C5BB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocca-sh&hide_border=true&background=0D1117&stroke=39C5BB&ring=39C5BB&fire=ff007f&currStreakLabel=39C5BB" />
 </div>
 
 ---
