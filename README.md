@@ -41,7 +41,7 @@ echo "Status: Online. Initializing $user environment..."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,c,java" />
   
-   <img src="https://cdn.simpleicons.org/gnubash/1D2D35" height="50"/>
+   <img src="https://cdn.simpleicons.org/gnubash" height="50"/>
 </p>
 
 ### Backend
