@@ -85,9 +85,9 @@ echo "Status: Online. Initializing $user environment..."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca-sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca-sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff&cache_seconds=1800" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca-sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca-sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff&cache_seconds=1800" />
 
 </div>
 
