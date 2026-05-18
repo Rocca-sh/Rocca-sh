@@ -63,43 +63,4 @@ echo "Status: Online. Initializing $user environment..."
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rocca-sh/DtrlBlogs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca-sh&repo=DtrlBlogs&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Rocca-sh/Pantallas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca-sh&repo=Pantallas&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
-</a>
-
-</div>
-
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocca-sh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff&cache_seconds=1800" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocca-sh&layout=compact&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=ffffff&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocca-sh&hide_border=true&background=0D1117&stroke=39C5BB&ring=39C5BB&fire=ff007f&currStreakLabel=39C5BB" />
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=80&section=footer" />
-
-Built from the terminal — Rocca.sh
-
-</div>
+</p>>
