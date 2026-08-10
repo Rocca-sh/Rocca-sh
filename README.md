@@ -63,4 +63,4 @@ echo "Status: Online. Initializing $user environment..."
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>>
+</p>
