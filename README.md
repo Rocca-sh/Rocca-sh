@@ -41,7 +41,7 @@ echo "Status: Online. Initializing $user environment..."
 
 ### Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,java" />
+  <img src="https://skillicons.dev/icons?i=go,python,java" />
   
    <img src="https://cdn.simpleicons.org/gnubash/EAE7D6" height="50"/>
 </p>
