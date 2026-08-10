@@ -19,7 +19,7 @@ role=("Backend Developer" "Linux Enthusiast" "Computer Engineer Student")
 origin="Mexico"
 
 # Current Modules
-stack=("C#" "Java" "C" "Bash")
+stack=("GO" "Python" "Java" "Bash")
 executing=(
   "Spring Boot screens manager"
   "DTRL - GNU/Linux structured community"
